@@ -1,6 +1,6 @@
 # library-catalogue
 
-basic CML library catalogue system.
+basic CML library catalogue system (completed prototype of project found in Bjarne Stroustrup's Programming: Principles and Practice Using C++)
 
 user can record a transaction for a patron checking out or returning
 a book to the library.
