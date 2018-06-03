@@ -1,4 +1,4 @@
-# library-catalogue
+# library-catalog
 
 basic CML library catalogue system (completed prototype of project found in Bjarne Stroustrup's Programming: Principles and Practice Using C++)
 
